@@ -8,8 +8,8 @@ import java.awt.event.ActionListener;
 public class GameWindow extends JFrame {
     static public final int WINDOW_HEIGHT = 640;
     static public final int WINDOW_WIDTH = 720;
-    static public final int WINDOW_POS_X = 300;
-    static public final int WINDOW_POS_Y = 100;
+    static public final int WINDOW_POS_X = 600;
+    static public final int WINDOW_POS_Y = 200;
     static public final String WINDOW_NAME = "Игра в крестики-нолики";
     SettingWindow gameSettings;
     Map gameMap;
